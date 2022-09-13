@@ -1,6 +1,6 @@
-# Project Title
+# Loan Calculator
 
-Loan Calculator
+
 
 This projects processes the user needs to find a qualified loans and allows it to strore it spreadsheet.
 
