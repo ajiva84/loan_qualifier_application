@@ -1,0 +1,50 @@
+  220  cd Test_repo/
+  221  git status
+  222  git add README.md
+  223  git status
+  224  touch
+  225  touch new_file.txt
+  226  git status
+  227  git add
+  228  git add new_file.txt
+  229  git status
+  230  git commit -m "Updated Readme and added a new file"
+  231  git status
+  232  git push
+  233  git push
+  234  git push
+  235  git push
+  236  git push
+  237  git login
+  238  git config --global user.name ajiva84
+  239  git config --global user.email jivazam@gmail.com
+  240  git@github.com:ajiva84/Test_repo.git
+  241* git remote set-url origin gi
+  242  git push
+  243  ssh-keygen -t rsa -C jivazam@gmail.com
+  244  git push
+  245  sudo git push
+  246  git push
+  247  git config --global credential.helper wincred
+  248  git push
+  249  git remote set-url origin https://github.com/ajiva84/Test_repo.git
+  250  git push
+  251  git push
+  252  git push
+  253  git push
+  254  git push
+  255  git remote set-url origin https://github.com/ajiva84/Test_repo.git
+  256  git remote set-url origin https://github.com/ajiva84/loan_qualifier_application.git
+  257  git status
+  258  git add
+  259  git add .
+  260  git status
+  261  git commit "updating all the files"
+  262  git commit -m "Updates across all the project files"
+  263  git push
+  264  git push -m
+  265  git push main
+  266  git status
+  267  git push
+  268  git push --force
+  269  history 50 > terminal_history.txt
