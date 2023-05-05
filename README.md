@@ -2,7 +2,7 @@
 
 
 
-This projects processes the user needs to find a qualified loans and allows it to strore it spreadsheet.
+This projects processes the user needs to find a qualified loans and allows it to strore it in spreadsheet.
 
 I had challenge finding the right loan for my house. I shopped around got a bunch of quotes (30 to be precise), it was hard for me to choose which loan should I go with based on my criteria and need.
 
